@@ -40,6 +40,24 @@ The model surfaced **9 significant rules** ranked by descending lift:
 
 ---
 
+## 📦 Dataset
+
+The **Mall Customers** dataset is publicly available on Kaggle:
+
+👉 [Customer Segmentation Tutorial — Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
+It contains 200 customer records with the following features:
+
+| Column | Description |
+|--------|-------------|
+| `CustomerID` | Unique customer identifier |
+| `Genre` | Gender of the customer |
+| `Age` | Age of the customer |
+| `Annual Income (k$)` | Annual income in thousands of dollars |
+| `Spending Score (1-100)` | Score assigned based on spending behaviour |
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
